@@ -15,6 +15,7 @@ const Start1 = () => (
       src="https://1.bp.blogspot.com/--t9O8VxLs5M/XzpTRj6GEEI/AAAAAAAALGk/PEqajmFQqQ4B8y7oZXrl22ZWdCSXqLoEACLcBGAsYHQ/s675/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2Bwp.jpg"
     />
     <p>
+      Hello world.
       Aplikasi modern dengan mengusung technology website application memudahkan
       dalam kebutuhan untuk kebebasan dalam akses apps dimana saja dan kapan
       saja via berbagai device dan OS dalam penggunaan nya, akses via smartphone
